@@ -1,0 +1,12 @@
+# Lightweight dependencies for the Kaggle 2xT4 runtime.
+# torch and triton are preinstalled on Kaggle GPU images; keep the
+# CUDA-enabled build provided by Kaggle instead of reinstalling them here.
+# For a local Linux setup, install a CUDA-matched PyTorch + Triton first:
+#   pip install --index-url https://download.pytorch.org/whl/cu121 torch
+#   pip install triton
+
+numpy>=1.26,<3
+psutil>=5.9
+fastapi>=0.110
+uvicorn>=0.29
+ipywidgets>=8.1

@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs, caches and runtime state
+*.log
+logs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.coverage
+
+# Model weights / checkpoints (never commit)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.bin
+*.h5
+*.npz
+
+# Archives and generated outputs
+*.zip
+*.tar
+*.tar.gz
+*.7z
+outputs/
+output/
+kaggle/
+submissions/
+wandb/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
