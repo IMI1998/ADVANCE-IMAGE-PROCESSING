@@ -1,6 +1,6 @@
 <div dir="rtl" align="right">
 
-# 🔬 سامانه جامع هوش مصنوعی پاتولوژی دیجیتال (نسخه ۱۲.۰)
+# 🔬 سامانه جامع هوش مصنوعی پاتولوژی دیجیتال 
 ### موتور فوق‌سریع TensorCore NHWC، کرنل‌های یک‌مرحله‌ای Triton Beer-Lambert و یادگیری تحلیلی Woodbury-Cholesky روی پردازنده‌های گرافیکی دوگانه (2x NVIDIA T4)
 
 ![وضعیت سامانه](https://img.shields.io/badge/وضعیت_سامانه-تایید_شده_روی_2x_Tesla_T4-10b981?style=for-the-badge)
