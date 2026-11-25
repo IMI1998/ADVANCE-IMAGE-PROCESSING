@@ -214,7 +214,7 @@ $$\phi(z_w) = \left[z_w \;\Big\|\; \sqrt{\frac{2}{3072}} \cos(z_w W_{\text{RFF}}
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sovereign Vision — 122.88 GB chiral image stream, 9.60 s, 100.00% accuracy" width="100%">
+<img src="assets/bench.png" alt="122.88 GB chiral image stream, 9.60 s, 100.00% accuracy" width="100%">
 
 
 </div>
